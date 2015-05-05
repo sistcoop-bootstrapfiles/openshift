@@ -1,0 +1,23 @@
+{
+  "name": "openshift",
+  "version": "1.0.0",
+  "description": "Openshift theme",
+  "author": {
+    "name": "redhat"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {
+    "gulp-less": "^3.0.3",
+    "gulp-rename": "^1.2.2"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-bower": "0.0.10",
+    "gulp-clean": "^0.3.1"
+  }
+}

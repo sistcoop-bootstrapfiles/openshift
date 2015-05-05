@@ -1,0 +1,9 @@
+{
+  "name": "persona",
+  "version": "0.0.1",
+  "dependencies": {
+    "patternfly": "~1.1.4",
+    "messenger": "~1.4.1",
+    "kubernetes-label-selector": "~0.0.1"
+  }
+}
